@@ -25,6 +25,7 @@ const card: Card = {
 	},
 
 	stage: "Stage1",
+	tera: true,
 
 	attacks: [{
 		cost: ["Water", "Water", "Water"],
@@ -81,9 +82,6 @@ const card: Card = {
 	suffix: "ex",
 	illustrator: "5ban Graphics",
 
-	description: {
-		en: "An underpowered, pathetic Pokémon. It may jump high on rare occasions but never more than seven feet.",
-	},
 
 	thirdParty: {
         cardmarket: 702340,
