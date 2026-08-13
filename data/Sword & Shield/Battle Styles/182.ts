@@ -15,6 +15,7 @@ const card: Card = {
 
 	rarity: "Secret Rare",
 	category: "Energy",
+	traits: ["rapid-strike"],
 
 	effect: {
 		en: "This card can only be attached to a Rapid Strike Pokémon. If this card is attached to anything other than a Rapid Strike Pokémon, discard this card.\nAs long as this card is attached to a Pokémon, it provides 2 in any combination of Water Energy and Fighting Energy.",

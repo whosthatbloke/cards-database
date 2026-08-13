@@ -16,6 +16,7 @@ const card: Card = {
 
 	rarity: "Promo",
 	category: "Pokemon",
+	traits: ["ancient"],
 	hp: 240,
 	types: ["Dragon"],
 	stage: "Basic",

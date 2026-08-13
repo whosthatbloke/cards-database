@@ -16,6 +16,7 @@ const card: Card = {
 	illustrator: "5ban Graphics",
 	rarity: "Uncommon",
 	category: "Trainer",
+	traits: ["rapid-strike"],
 
 	effect: {
 		fr: "Le Pokémon Mille Poings auquel cette carte est attachée peut utiliser l'attaque sur cette carte. (Vous avez toujours besoin de l'Énergie nécessaire pour utiliser cette attaque.)",

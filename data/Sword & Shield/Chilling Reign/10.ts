@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Akira Komayama",
 	rarity: "Rare",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 140,
 	types: ["Grass"],
 

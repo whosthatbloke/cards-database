@@ -16,6 +16,7 @@ const card: Card = {
 	illustrator: "5ban Graphics",
 	rarity: "Uncommon",
 	category: "Trainer",
+	traits: ["single-strike"],
 
 	effect: {
 		en: "Once during each player's turn, that player may draw 2 cards. In order to use this effect, that player must discard a Single Strike card from their hand.",

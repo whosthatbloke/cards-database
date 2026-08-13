@@ -25,7 +25,7 @@ const card: Card = {
 	},
 
 	stage: "Stage1",
-	tera: true,
+	traits: ["tera"],
 
 	attacks: [{
 		cost: ["Fire", "Fire"],

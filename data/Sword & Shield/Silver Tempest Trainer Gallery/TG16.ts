@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "yuu",
 	rarity: "Holo Rare V",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 210,
 	types: ["Lightning"],
 	stage: "Basic",

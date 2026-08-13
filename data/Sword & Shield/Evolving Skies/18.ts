@@ -16,6 +16,7 @@ const card: Card = {
 
 	rarity: "Holo Rare VMAX",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 320,
 	types: ["Fire"],
 	stage: "VMAX",

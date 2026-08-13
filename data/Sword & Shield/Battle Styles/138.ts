@@ -16,6 +16,7 @@ const card: Card = {
 	illustrator: "5ban Graphics",
 	rarity: "Uncommon",
 	category: "Trainer",
+	traits: ["rapid-strike"],
 
 	effect: {
 		en: "The Retreat Cost of each Rapid Strike Pokémon in play (both yours and your opponent's) is ColorlessColorless less.",

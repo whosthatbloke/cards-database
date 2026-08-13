@@ -15,6 +15,7 @@ const card: Card = {
 
 	rarity: "Uncommon",
 	category: "Trainer",
+	traits: ["ancient"],
 
 	effect: {
 		en: "You can use this card only if you discard another card from your hand.\n\nSearch your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",

@@ -15,6 +15,7 @@ const card: Card = {
 
 	rarity: "Secret Rare",
 	category: "Trainer",
+	traits: ["single-strike"],
 
 	effect: {
 		en: "During this turn, your Single Strike Pokémon's attacks do 20 more damage to your opponent's Active Pokémon for each Prize card your opponent has taken (before applying Weakness and Resistance).",

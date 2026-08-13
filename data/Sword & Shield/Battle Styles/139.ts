@@ -16,6 +16,7 @@ const card: Card = {
 	illustrator: "Toyste Beach",
 	rarity: "Uncommon",
 	category: "Trainer",
+	traits: ["single-strike"],
 
 	effect: {
 		en: "Shuffle up to 2 Single Strike Energy cards from your discard pile into your deck.",

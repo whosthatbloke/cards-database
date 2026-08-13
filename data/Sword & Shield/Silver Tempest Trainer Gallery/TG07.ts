@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Hideki Ishikawa",
 	rarity: "Holo Rare",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 70,
 	types: ["Fighting"],
 	stage: "Basic",

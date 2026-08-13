@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Scav",
 	rarity: "Ultra Rare",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 330,
 	types: ["Fighting"],
 

@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Megumi Mizutani",
 	rarity: "Ultra Rare",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 200,
 	types: ["Psychic"],
 	stage: "Basic",

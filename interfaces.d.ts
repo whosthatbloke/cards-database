@@ -6,6 +6,8 @@ export type SupportedLanguages =
 
 export type Languages<T = string> = Partial<Record<SupportedLanguages, T>>
 
+export type CardTrait = 'ancient' | 'future' | 'tera' | 'single-strike' | 'rapid-strike' | 'fusion-strike'
+
 export interface Serie {
 	id: string
 	name: Languages
@@ -328,12 +330,14 @@ export interface Card {
 	stage?: 'Basic' | 'BREAK' | 'LEVEL-UP' | 'MEGA' | 'RESTORED' | 'Stage1' | 'Stage2' | 'VMAX' | 'V-UNION' | 'Baby' | 'VSTAR'
 
 	/**
-	 * Printed Tera Pokémon classification.
+	 * Printed card classifications, asserted only from the printed card or an
+	 * authoritative card listing.
 	 *
-	 * This assertion is present only when the card is explicitly identified as a
-	 * Tera Pokémon by its printed rule box or an authoritative card listing.
+	 * `ancient` is distinct from an ability whose type is `Ancient Trait`.
+	 * Traits are not inferred from a card's stage, suffix, rule class, name,
+	 * artwork, or rules text.
 	 */
-	tera?: true
+	traits?: Array<CardTrait>
 
 	/**
 	 * Card Suffix

@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "nagimiso",
 	rarity: "Uncommon",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 80,
 	types: ["Grass"],
 

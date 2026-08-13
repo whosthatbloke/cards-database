@@ -16,6 +16,7 @@ const card: Card = {
 	illustrator: "Uta",
 	rarity: "Promo",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 130,
 	types: ["Darkness"],
 

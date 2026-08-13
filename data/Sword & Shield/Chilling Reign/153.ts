@@ -16,6 +16,7 @@ const card: Card = {
 	illustrator: "Ken Sugimori",
 	rarity: "Uncommon",
 	category: "Trainer",
+	traits: ["rapid-strike"],
 
 	effect: {
 		fr: "Choisissez jusqu'à 2 de vos Pokémon Mille Poings, puis soignez 60 dégâts de chacun de ces Pokémon.",

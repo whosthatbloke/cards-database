@@ -15,6 +15,7 @@ const card: Card = {
 
 	rarity: "Uncommon",
 	category: "Trainer",
+	traits: ["ancient"],
 
 	effect: {
 		en: "The Ancient Pokémon this card is attached to gets +60 HP, recovers from all Special Conditions, and can't be affected by any Special Conditions.",

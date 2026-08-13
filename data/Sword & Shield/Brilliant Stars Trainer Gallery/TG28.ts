@@ -16,6 +16,7 @@ const card: Card = {
 	illustrator: "Souichirou Gunjima",
 	rarity: "Ultra Rare",
 	category: "Trainer",
+	traits: ["single-strike"],
 
 	effect: {
 		en: "$$$CARD.RULES.MISSING.TOKEN$$$",

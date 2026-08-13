@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Mitsuhiro Arita",
 	rarity: "Holo Rare",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 140,
 	types: ["Darkness"],
 

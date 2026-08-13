@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Taira Akitsu",
 	rarity: "Rare",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 90,
 	types: ["Fighting"],
 

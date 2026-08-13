@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Anesaki Dynamic",
 	rarity: "Holo Rare",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 180,
 	types: ["Fire"],
 

@@ -27,7 +27,7 @@ const card: Card = {
 		de: "Knarksel"
 	},
 	stage: "Stage2",
-	tera: true,
+	traits: ["tera"],
 
 	attacks: [{
 		cost: ["Fighting"],

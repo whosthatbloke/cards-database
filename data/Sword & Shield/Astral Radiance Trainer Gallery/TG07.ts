@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Kinu Nishimura",
 	rarity: "Rare",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 110,
 	types: ["Fighting"],
 	stage: "Basic",

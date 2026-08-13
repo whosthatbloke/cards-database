@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Ayaka Yoshida",
 	rarity: "Ultra Rare",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 230,
 	types: ["Darkness"],
 

@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "takuyoa",
 	rarity: "Ultra Rare",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 220,
 	types: ["Fighting"],
 	stage: "Basic",

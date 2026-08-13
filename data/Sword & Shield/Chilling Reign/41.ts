@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Yuu Nishida",
 	rarity: "Common",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 60,
 	types: ["Water"],
 

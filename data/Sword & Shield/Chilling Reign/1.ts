@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Sanosuke Sakuma",
 	rarity: "Common",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 40,
 	types: ["Grass"],
 

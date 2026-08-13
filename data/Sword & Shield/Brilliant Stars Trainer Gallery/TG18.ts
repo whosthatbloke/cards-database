@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Yuu Nishida",
 	rarity: "Ultra Rare",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 220,
 	types: ["Fighting"],
 	stage: "Basic",

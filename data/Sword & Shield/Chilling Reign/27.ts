@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Souichirou Gunjima",
 	rarity: "Uncommon",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 90,
 	types: ["Fire"],
 

@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "nagimiso",
 	rarity: "Rare",
 	category: "Pokemon",
+	traits: ["fusion-strike"],
 	hp: 110,
 	types: ["Water"],
 	stage: "Basic",

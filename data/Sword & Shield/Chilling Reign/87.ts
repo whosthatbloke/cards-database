@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Teeziro",
 	rarity: "Holo Rare",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 120,
 	types: ["Fighting"],
 

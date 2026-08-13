@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Kouki Saitou",
 	rarity: "Rare",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 120,
 	types: ["Fighting"],
 

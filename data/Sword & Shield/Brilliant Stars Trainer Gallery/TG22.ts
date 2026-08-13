@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Ligton",
 	rarity: "Ultra Rare",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 200,
 	types: ["Darkness"],
 	stage: "Basic",

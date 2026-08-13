@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Taira Akitsu",
 	rarity: "Holo Rare",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 110,
 	types: ["Water"],
 

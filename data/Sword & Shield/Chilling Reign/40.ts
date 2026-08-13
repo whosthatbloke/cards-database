@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Shin Nagasawa",
 	rarity: "Holo Rare",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 120,
 	types: ["Water"],
 

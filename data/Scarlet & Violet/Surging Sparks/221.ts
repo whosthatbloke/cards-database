@@ -27,7 +27,7 @@ const card: Card = {
 		de: "Sankabuh"
 	},
 	stage: "Stage1",
-	tera: true,
+	traits: ["tera"],
 
 	attacks: [{
 		cost: ["Colorless", "Colorless", "Colorless"],

@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "OKACHEKE",
 	rarity: "Common",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 50,
 	types: ["Psychic"],
 

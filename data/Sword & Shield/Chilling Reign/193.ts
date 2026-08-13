@@ -16,6 +16,7 @@ const card: Card = {
 	illustrator: "Hideki Ishikawa",
 	rarity: "Ultra Rare",
 	category: "Trainer",
+	traits: ["single-strike"],
 
 	effect: {
 		fr: "Pendant ce tour, les attaques de vos Pokémon Poing Final infligent 20 dégâts supplémentaires au Pokémon Actif de votre adversaire pour chaque carte Récompense que votre adversaire a récupérée (avant application de la Faiblesse et de la Résistance).",

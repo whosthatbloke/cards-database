@@ -15,6 +15,7 @@ const card: Card = {
 
 	rarity: "Secret Rare",
 	category: "Trainer",
+	traits: ["single-strike"],
 
 	effect: {
 		en: "Put a Single Strike Supporter card from your discard pile into your hand.",

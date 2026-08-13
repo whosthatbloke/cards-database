@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "PLANETA Mochizuki",
 	rarity: "Secret Rare",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 320,
 	types: ["Dragon"],
 

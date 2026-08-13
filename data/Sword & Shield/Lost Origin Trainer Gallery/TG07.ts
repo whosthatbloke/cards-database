@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Tomomi Kaneko",
 	rarity: "Rare",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 80,
 	types: ["Psychic"],
 

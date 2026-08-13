@@ -6,6 +6,7 @@ const card: Card = {
 	set: Set,
 	illustrator: "5ban Graphics",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	stage: "Basic",
 	weaknesses: [
 		{

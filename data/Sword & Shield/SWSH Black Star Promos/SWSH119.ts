@@ -5,6 +5,7 @@ const card: Card = {
 	set: Set,
 	illustrator: "Yuya Oka",
 	category: "Pokemon",
+	traits: ["single-strike"],
 
 	description: {
 		en: "This Pokémon's stomach is so strong, even eating moldy or rotten food will not affect it."

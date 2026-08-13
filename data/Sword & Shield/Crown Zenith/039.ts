@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Mina Nakai",
 	rarity: "Common",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 60,
 	types: ["Lightning"],
 	stage: "Basic",

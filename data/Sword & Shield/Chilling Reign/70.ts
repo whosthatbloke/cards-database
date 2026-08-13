@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Kagemaru Himeno",
 	rarity: "Rare",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 120,
 	types: ["Psychic"],
 

@@ -15,6 +15,7 @@ const card: Card = {
 
 	rarity: "Secret Rare",
 	category: "Trainer",
+	traits: ["rapid-strike"],
 
 	effect: {
 		en: "Search your deck for up to 3 Basic Rapid Strike Pokémon and put them onto your Bench. Then, shuffle your deck.",

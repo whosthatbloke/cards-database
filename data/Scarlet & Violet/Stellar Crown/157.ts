@@ -27,7 +27,7 @@ const card: Card = {
 		de: "Kickerlo"
 	},
 	stage: "Stage2",
-	tera: true,
+	traits: ["tera"],
 
 	attacks: [{
 		cost: ["Fire", "Colorless", "Colorless"],

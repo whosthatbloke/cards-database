@@ -16,6 +16,7 @@ const card: Card = {
 
 	rarity: "Hyper rare",
 	category: "Pokemon",
+	traits: ["future"],
 	hp: 240,
 	types: ["Fighting"],
 	stage: "Basic",

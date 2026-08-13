@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Hitoshi Ariga",
 	rarity: "Rare",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 90,
 	types: ["Fighting"],
 

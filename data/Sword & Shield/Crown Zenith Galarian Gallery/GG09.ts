@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Nelnal",
 	rarity: "Rare",
 	category: "Pokemon",
+	traits: ["fusion-strike"],
 	hp: 120,
 	types: ["Lightning"],
 

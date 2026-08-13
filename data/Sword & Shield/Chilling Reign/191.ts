@@ -16,6 +16,7 @@ const card: Card = {
 	illustrator: "Ryuta Fuse",
 	rarity: "Ultra Rare",
 	category: "Trainer",
+	traits: ["single-strike"],
 
 	effect: {
 		fr: "Défaussez une Énergie spéciale de l'un des Pokémon de votre adversaire, et défaussez un Stade en jeu.",

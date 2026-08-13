@@ -15,6 +15,7 @@ const card: Card = {
 
 	rarity: "Secret Rare",
 	category: "Trainer",
+	traits: ["rapid-strike"],
 
 	effect: {
 		en: "Put a Basic Pokémon from your opponent's discard pile onto their Bench.",
