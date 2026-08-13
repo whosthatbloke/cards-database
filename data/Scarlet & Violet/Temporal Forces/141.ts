@@ -15,6 +15,7 @@ const card: Card = {
 
 	rarity: "ACE SPEC Rare",
 	category: "Trainer",
+	traits: ["ancient"],
 
 	effect: {
 		en: "Draw a card for each of your Ancient Pokémon in play.",

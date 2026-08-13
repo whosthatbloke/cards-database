@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "NC Empire",
 	rarity: "Common",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 70,
 	types: ["Water"],
 

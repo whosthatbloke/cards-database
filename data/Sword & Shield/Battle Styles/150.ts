@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "PLANETA Mochizuki",
 	rarity: "Ultra Rare",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 220,
 	types: ["Fighting"],
 

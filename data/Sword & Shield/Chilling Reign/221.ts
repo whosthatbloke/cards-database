@@ -15,6 +15,7 @@ const card: Card = {
 
 	rarity: "Secret Rare",
 	category: "Trainer",
+	traits: ["rapid-strike"],
 
 	effect: {
 		en: "Choose up to 2 of your Rapid Strike Pokémon and heal 60 damage from each of them.",

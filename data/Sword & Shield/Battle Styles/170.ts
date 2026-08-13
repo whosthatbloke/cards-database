@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "KIYOTAKA OSHIYAMA",
 	rarity: "Secret Rare",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 330,
 	types: ["Fighting"],
 

@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "AKIRA EGAWA",
 	rarity: "Uncommon",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 110,
 	types: ["Grass"],
 

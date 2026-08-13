@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "You Iribi",
 	rarity: "Common",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 80,
 	types: ["Fire"],
 

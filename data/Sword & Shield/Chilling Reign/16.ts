@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "kodama",
 	rarity: "Common",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 60,
 	types: ["Grass"],
 

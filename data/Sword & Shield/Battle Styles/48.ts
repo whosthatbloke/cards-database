@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Kazuma Koda",
 	rarity: "Holo Rare",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 150,
 	types: ["Lightning"],
 

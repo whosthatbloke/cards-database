@@ -1451,6 +1451,7 @@ components:
         - name
         - rarity
         - set
+        - traits
         - legal
         - updated
       type: object
@@ -1554,9 +1555,18 @@ components:
           type: [string, null]
           description: Evolution stage (Basic, Stage 1, Stage 2, etc.)
           example: "Stage 2"
-        tera:
-          type: [boolean, null]
-          description: Whether this card is explicitly classified as a printed Tera Pokémon
+        traits:
+          type: array
+          description: Printed card classifications. `ancient` is distinct from an ability whose type is `Ancient Trait`; traits are not inferred from a card's stage, suffix, rule class, name, artwork, or rules text.
+          items:
+            type: string
+            enum:
+              - ancient
+              - future
+              - tera
+              - single-strike
+              - rapid-strike
+              - fusion-strike
         suffix:
           type: [string, null]
           description: Special card suffix (EX, GX, V, etc.)

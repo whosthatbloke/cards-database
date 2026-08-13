@@ -5,6 +5,7 @@ const card: Card = {
 	set: Set,
 	illustrator: "Anesaki Dynamic",
 	category: "Pokemon",
+	traits: ["single-strike"],
 
 	description: {
 		en: "It's skilled at both offense and defense, and it gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot."

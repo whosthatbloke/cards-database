@@ -15,6 +15,7 @@ const card: Card = {
 
 	rarity: "Secret Rare",
 	category: "Trainer",
+	traits: ["single-strike"],
 
 	effect: {
 		en: "Shuffle up to 2 Single Strike Energy cards from your discard pile into your deck.",

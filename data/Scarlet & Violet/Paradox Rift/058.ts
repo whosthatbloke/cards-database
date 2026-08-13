@@ -19,7 +19,7 @@ const card: Card = {
 	hp: 230,
 	types: ["Lightning"],
 	stage: "Basic",
-	tera: true,
+	traits: ["tera"],
 
 	attacks: [{
 		cost: ["Psychic"],

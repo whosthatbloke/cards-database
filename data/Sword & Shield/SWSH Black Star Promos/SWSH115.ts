@@ -5,6 +5,7 @@ const card: Card = {
 	set: Set,
 	illustrator: "Teeziro",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 
 	description: {
 		en: "Passimian live in groups of about 20, with each member performing an assigned role. Through cooperation, the group survives."

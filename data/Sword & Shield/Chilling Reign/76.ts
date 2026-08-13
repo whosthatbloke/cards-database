@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Souichirou Gunjima",
 	rarity: "Common",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 50,
 	types: ["Fighting"],
 

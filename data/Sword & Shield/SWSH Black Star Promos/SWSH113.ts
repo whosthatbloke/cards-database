@@ -5,6 +5,7 @@ const card: Card = {
 	set: Set,
 	illustrator: "AKIRA EGAWA",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 
 	description: {
 		en: "Its nictitating membranes let it pick out foes' weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3."

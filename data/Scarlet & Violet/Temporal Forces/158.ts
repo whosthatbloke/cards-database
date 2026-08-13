@@ -15,6 +15,7 @@ const card: Card = {
 
 	rarity: "ACE SPEC Rare",
 	category: "Trainer",
+	traits: ["future"],
 
 	effect: {
 		en: "Attach a Basic Energy card from your discard pile to each of your Future Pokémon.",

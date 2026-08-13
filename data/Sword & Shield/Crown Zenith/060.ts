@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "PLANETA Igarashi",
 	rarity: "Holo Rare V",
 	category: "Pokemon",
+	traits: ["fusion-strike"],
 	hp: 180,
 	types: ["Psychic"],
 	stage: "Basic",

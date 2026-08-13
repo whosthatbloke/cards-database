@@ -22,7 +22,7 @@ const card: Card = {
 	hp: 200,
 	types: ["Lightning"],
 	stage: "Basic",
-	tera: true,
+	traits: ["tera"],
 
 	abilities: [{
 		type: "Ability",

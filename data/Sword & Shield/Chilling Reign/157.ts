@@ -15,6 +15,7 @@ const card: Card = {
 
 	rarity: "Uncommon",
 	category: "Energy",
+	traits: ["single-strike"],
 
 	effect: {
 		fr: "Cette carte ne peut être attachée qu'à un Pokémon Poing Final. Si cette carte est attachée à autre chose qu'un Pokémon Poing Final, défaussez-la.\nTant que cette carte est attachée à un Pokémon, elle fournit tout type d'Énergie mais seulement une Énergie à la fois. Le Pokémon auquel cette carte est attachée ne peut pas être Empoisonné. Si ce Pokémon est déjà Empoisonné, il guérit de cet État Spécial.",

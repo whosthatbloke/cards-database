@@ -159,6 +159,8 @@ export interface CardResume {
 	image?: string;
 }
 
+export type CardTrait = 'ancient' | 'future' | 'tera' | 'single-strike' | 'rapid-strike' | 'fusion-strike';
+
 /**
  * /cards/:id
  * /sets/:set/:localId
@@ -260,9 +262,12 @@ export interface Card extends CardResume {
 	 */
 	stage?: string;
 	/**
-	 * Whether this card is explicitly classified as a printed Tera Pokémon.
+	 * Printed card classifications, asserted only from the printed card or an
+	 * authoritative card listing. `ancient` is distinct from an ability whose
+	 * type is `Ancient Trait`; traits are not inferred from a card's stage,
+	 * suffix, rule class, name, artwork, or rules text.
 	 */
-	tera?: boolean;
+	traits: Array<CardTrait>;
 	/**
 	 * Card Suffix
 	 *

@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Naoki Saito",
 	rarity: "Common",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 80,
 	types: ["Grass"],
 

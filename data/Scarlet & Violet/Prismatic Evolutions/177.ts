@@ -19,7 +19,7 @@ const card: Card = {
 	hp: 210,
 	types: ["Grass"],
 	stage: "Basic",
-	tera: true,
+	traits: ["tera"],
 
 	abilities: [{
 		type: "Ability",

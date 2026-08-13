@@ -16,6 +16,7 @@ const card: Card = {
 	illustrator: "Studio Bora Inc.",
 	rarity: "Uncommon",
 	category: "Trainer",
+	traits: ["rapid-strike"],
 
 	effect: {
 		fr: "Placez un Pokémon de base de la pile de défausse de votre adversaire sur son Banc.",

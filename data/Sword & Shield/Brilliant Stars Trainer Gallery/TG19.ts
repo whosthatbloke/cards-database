@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "kodama",
 	rarity: "Ultra Rare",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 330,
 	types: ["Fighting"],
 

@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Sanosuke Sakuma",
 	rarity: "Common",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 50,
 	types: ["Psychic"],
 

@@ -16,6 +16,7 @@ const card: Card = {
 	illustrator: "KIYOTAKA OSHIYAMA",
 	rarity: "Ultra Rare",
 	category: "Trainer",
+	traits: ["rapid-strike"],
 
 	effect: {
 		en: "$$$CARD.RULES.MISSING.TOKEN$$$",

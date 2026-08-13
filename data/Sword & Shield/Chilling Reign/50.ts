@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "HYOGONOSUKE",
 	rarity: "Common",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 60,
 	types: ["Lightning"],
 

@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Tomokazu Komiya",
 	rarity: "Ultra Rare",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 220,
 	types: ["Darkness"],
 

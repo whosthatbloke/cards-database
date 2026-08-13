@@ -15,6 +15,7 @@ const card: Card = {
 
 	rarity: "Uncommon",
 	category: "Trainer",
+	traits: ["future"],
 
 	effect: {
 		en: "The Future Pokémon this card is attached to has no Retreat Cost, and the attacks it uses do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",

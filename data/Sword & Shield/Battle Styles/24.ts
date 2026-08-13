@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "tetsuya koizumi",
 	rarity: "Uncommon",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 100,
 	types: ["Fire"],
 

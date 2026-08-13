@@ -16,6 +16,7 @@ const card: Card = {
 	illustrator: "5ban Graphics",
 	rarity: "Uncommon",
 	category: "Trainer",
+	traits: ["single-strike"],
 
 	effect: {
 		en: "The Single Strike Pokémon this card is attached to can use the attack on this card. (You still need the necessary Energy to use this attack.)",

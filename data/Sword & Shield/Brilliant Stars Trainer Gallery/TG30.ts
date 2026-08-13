@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "PLANETA Tsuji",
 	rarity: "Secret Rare",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 330,
 	types: ["Fighting"],
 

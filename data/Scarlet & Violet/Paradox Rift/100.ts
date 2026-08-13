@@ -27,7 +27,7 @@ const card: Card = {
 		de: "Toxel"
 	},
 	stage: "Stage1",
-	tera: true,
+	traits: ["tera"],
 
 	attacks: [{
 		cost: ["Lightning", "Lightning"],

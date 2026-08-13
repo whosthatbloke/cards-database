@@ -16,6 +16,7 @@ const card: Card = {
 	illustrator: "Taira Akitsu",
 	rarity: "Ultra Rare",
 	category: "Trainer",
+	traits: ["single-strike"],
 
 	effect: {
 		en: "Draw cards until you have 6 cards in your hand.",

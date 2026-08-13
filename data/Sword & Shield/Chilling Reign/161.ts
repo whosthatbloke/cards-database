@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Ayaka Yoshida",
 	rarity: "Ultra Rare",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 210,
 	types: ["Fire"],
 

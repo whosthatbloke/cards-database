@@ -15,6 +15,7 @@ const card: Card = {
 
 	rarity: "Uncommon",
 	category: "Trainer",
+	traits: ["fusion-strike"],
 
 	effect: {
 		en: "You must play 2 Crossceiver cards at once. (This effect works one time for 2 cards.)\n\nPut a Pokémon or a Supporter card from your discard pile into your hand.",

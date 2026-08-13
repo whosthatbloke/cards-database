@@ -15,6 +15,7 @@ const card: Card = {
 
 	rarity: "Secret Rare",
 	category: "Trainer",
+	traits: ["rapid-strike"],
 
 	effect: {
 		en: "Draw cards until you have 6 cards in your hand.",

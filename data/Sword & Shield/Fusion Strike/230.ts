@@ -15,6 +15,7 @@ const card: Card = {
 
 	rarity: "Uncommon",
 	category: "Trainer",
+	traits: ["fusion-strike"],
 
 	effect: {
 		en: "You must play 2 Cross Switcher cards at once. (This effect works one time for 2 cards.)\n\nSwitch 1 of your opponent's Benched Pokémon with their Active Pokémon. If you do, switch your Active Pokémon with 1 of your Benched Pokémon.",

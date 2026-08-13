@@ -16,6 +16,7 @@ const card: Card = {
 	illustrator: "Megumi Mizutani",
 	rarity: "Ultra Rare",
 	category: "Trainer",
+	traits: ["fusion-strike"],
 
 	effect: {
 		en: "Choose up to 2 of your Fusion Strike Pokémon. For each of those Pokémon, search your deck for a Fusion Strike Energy card and attach it to that Pokémon. Then, shuffle your deck.",

@@ -16,6 +16,7 @@ const card: Card = {
 	illustrator: "5ban Graphics",
 	rarity: "Uncommon",
 	category: "Trainer",
+	traits: ["single-strike"],
 
 	effect: {
 		fr: "Le Pokémon Poing Final auquel cette carte est attachée peut utiliser l'attaque sur cette carte. (Vous avez toujours besoin de l'Énergie nécessaire pour utiliser cette attaque.)",

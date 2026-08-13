@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Ryuta Fuse",
 	rarity: "Holo Rare",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 170,
 	types: ["Fire"],
 

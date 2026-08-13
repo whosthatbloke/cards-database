@@ -15,6 +15,7 @@ const card: Card = {
 
 	rarity: "Uncommon",
 	category: "Trainer",
+	traits: ["ancient"],
 
 	effect: {
 		en: "Look at the top 6 cards of your deck and put 2 of them into your hand. Discard the other cards.",

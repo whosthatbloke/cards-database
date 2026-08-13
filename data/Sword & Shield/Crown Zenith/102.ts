@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "5ban Graphics",
 	rarity: "Ultra Rare",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 320,
 	types: ["Dragon"],
 

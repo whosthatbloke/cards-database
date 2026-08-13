@@ -15,6 +15,7 @@ const card: Card = {
 
 	rarity: "Ultra Rare",
 	category: "Trainer",
+	traits: ["fusion-strike"],
 
 	effect: {
 		en: "Search your deck for up to 3 Fusion Strike Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.",

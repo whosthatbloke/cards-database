@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "NC Empire",
 	rarity: "Rare",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 130,
 	types: ["Darkness"],
 

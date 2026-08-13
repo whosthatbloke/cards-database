@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Shibuzoh.",
 	rarity: "Uncommon",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 80,
 	types: ["Lightning"],
 

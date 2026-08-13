@@ -15,6 +15,7 @@ const card: Card = {
 
 	rarity: "Uncommon",
 	category: "Trainer",
+	traits: ["future"],
 
 	effect: {
 		en: "Search your deck for 2 cards, shuffle your deck, then put those cards on top of it in any order.",

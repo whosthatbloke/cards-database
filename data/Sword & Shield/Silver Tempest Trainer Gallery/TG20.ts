@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Hideki Ishikawa",
 	rarity: "Holo Rare VMAX",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 320,
 	types: ["Dragon"],
 

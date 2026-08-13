@@ -15,6 +15,7 @@ const card: Card = {
 
 	rarity: "Ultra Rare",
 	category: "Trainer",
+	traits: ["future"],
 
 	effect: {
 		en: "Put 1 of your Pokémon in play into your hand. (Discard all cards attached to that Pokémon.)",

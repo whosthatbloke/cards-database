@@ -27,7 +27,7 @@ const card: Card = {
 		de: "Girafarig"
 	},
 	stage: "Stage1",
-	tera: true,
+	traits: ["tera"],
 
 	abilities: [{
 		type: "Ability",

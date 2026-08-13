@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Tomokazu Komiya",
 	rarity: "Rare",
 	category: "Pokemon",
+	traits: ["fusion-strike"],
 	hp: 90,
 	types: ["Fire"],
 	stage: "Basic",

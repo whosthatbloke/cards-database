@@ -16,6 +16,7 @@ const card: Card = {
 
 	rarity: "Holo Rare",
 	category: "Pokemon",
+	traits: ["single-strike", "rapid-strike", "fusion-strike"],
 	hp: 120,
 	types: ["Psychic"],
 	stage: "Basic",

@@ -16,6 +16,7 @@ const card: Card = {
 	illustrator: "kirisAki",
 	rarity: "Uncommon",
 	category: "Trainer",
+	traits: ["rapid-strike"],
 
 	effect: {
 		en: "Draw cards until you have 6 cards in your hand.",

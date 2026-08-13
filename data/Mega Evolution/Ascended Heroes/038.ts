@@ -31,7 +31,7 @@ const card: Card = {
 	hp: 320,
 	types: ["Fire"],
 	stage: "Stage2",
-	tera: true,
+	traits: ["tera"],
 
 	attacks: [{
 		cost: ["Fire", "Colorless", "Colorless"],

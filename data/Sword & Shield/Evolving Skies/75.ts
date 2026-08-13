@@ -16,6 +16,7 @@ const card: Card = {
 
 	rarity: "Holo Rare VMAX",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 310,
 	types: ["Psychic"],
 	illustrator: "Ryota Murayama",

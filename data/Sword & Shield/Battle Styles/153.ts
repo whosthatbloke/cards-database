@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Ryota Murayama",
 	rarity: "Ultra Rare",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 220,
 	types: ["Fighting"],
 

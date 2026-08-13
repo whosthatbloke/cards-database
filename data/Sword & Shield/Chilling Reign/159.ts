@@ -15,6 +15,7 @@ const card: Card = {
 
 	rarity: "Uncommon",
 	category: "Energy",
+	traits: ["rapid-strike"],
 
 	effect: {
 		fr: "Cette carte ne peut être attachée qu'à un Pokémon Mille Poings. Si cette carte est attachée à autre chose qu'un Pokémon Mille Poings, défaussez-la.\nTant que cette carte est attachée à un Pokémon, elle fournit tout type d'Énergie mais seulement une Énergie à la fois. Le Pokémon auquel cette carte est attachée ne peut pas être Paralysé. Si ce Pokémon est déjà Paralysé, il guérit de cet État Spécial.",

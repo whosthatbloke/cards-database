@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Misa Tsutsui",
 	rarity: "Holo Rare",
 	category: "Pokemon",
+	traits: ["single-strike"],
 	hp: 130,
 	types: ["Grass"],
 

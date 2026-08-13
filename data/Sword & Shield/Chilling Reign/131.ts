@@ -16,6 +16,7 @@ const card: Card = {
 	illustrator: "Megumi Mizutani",
 	rarity: "Uncommon",
 	category: "Trainer",
+	traits: ["rapid-strike"],
 
 	effect: {
 		fr: "Cherchez dans votre deck jusqu'à 3 Pokémon Mille Poings de base, puis placez-les sur votre Banc. Mélangez ensuite votre deck.",

@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "5ban Graphics",
 	rarity: "Holo Rare V",
 	category: "Pokemon",
+	traits: ["fusion-strike"],
 	hp: 210,
 	types: ["Water"],
 	stage: "Basic",

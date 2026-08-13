@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "OKACHEKE",
 	rarity: "Ultra Rare",
 	category: "Pokemon",
+	traits: ["fusion-strike"],
 	hp: 220,
 	types: ["Darkness"],
 	stage: "Basic",

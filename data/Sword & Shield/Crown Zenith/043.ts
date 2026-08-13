@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "sui",
 	rarity: "Rare",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 150,
 	types: ["Lightning"],
 

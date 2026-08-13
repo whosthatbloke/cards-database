@@ -16,6 +16,7 @@ const card: Card = {
 	illustrator: "Studio Bora Inc.",
 	rarity: "Uncommon",
 	category: "Trainer",
+	traits: ["single-strike"],
 
 	effect: {
 		fr: "Ajoutez une carte Supporter Poing Final de votre pile de défausse à votre main.",

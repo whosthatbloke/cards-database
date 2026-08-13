@@ -27,7 +27,7 @@ const card: Card = {
 		de: "Dragonir"
 	},
 	stage: "Stage2",
-	tera: true,
+	traits: ["tera"],
 
 	attacks: [{
 		cost: ["Colorless"],

@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "Mitsuhiro Arita",
 	rarity: "Uncommon",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 90,
 	types: ["Water"],
 

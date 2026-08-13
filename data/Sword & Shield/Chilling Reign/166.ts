@@ -14,6 +14,7 @@ const card: Card = {
 	illustrator: "Atsushi Furusawa",
 	rarity: "Ultra Rare",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	set: Set,
 	hp: 210,
 	dexId: [807],

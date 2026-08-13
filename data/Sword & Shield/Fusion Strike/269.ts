@@ -16,6 +16,7 @@ const card: Card = {
 
 	rarity: "Secret Rare",
 	category: "Pokemon",
+	traits: ["fusion-strike"],
 	hp: 310,
 	types: ["Psychic"],
 

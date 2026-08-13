@@ -17,6 +17,7 @@ const card: Card = {
 	illustrator: "AKIRA EGAWA",
 	rarity: "Holo Rare VMAX",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 320,
 	types: ["Fire"],
 

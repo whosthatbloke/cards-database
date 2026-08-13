@@ -19,7 +19,7 @@ const card: Card = {
 	hp: 210,
 	types: ["Water"],
 	stage: "Basic",
-	tera: true,
+	traits: ["tera"],
 
 	attacks: [{
 		cost: ["Colorless"],

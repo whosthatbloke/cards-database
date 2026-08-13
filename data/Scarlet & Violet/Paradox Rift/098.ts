@@ -19,7 +19,7 @@ const card: Card = {
 	hp: 220,
 	types: ["Fighting"],
 	stage: "Basic",
-	tera: true,
+	traits: ["tera"],
 
 	attacks: [{
 		cost: ["Darkness", "Darkness"],

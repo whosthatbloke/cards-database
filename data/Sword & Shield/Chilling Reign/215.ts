@@ -15,6 +15,7 @@ const card: Card = {
 
 	rarity: "Secret Rare",
 	category: "Trainer",
+	traits: ["single-strike"],
 
 	effect: {
 		en: "Discard a Special Energy from 1 of your opponent's Pokémon, and discard a Stadium in play.",

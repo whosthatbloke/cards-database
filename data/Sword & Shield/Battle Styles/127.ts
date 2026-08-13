@@ -16,6 +16,7 @@ const card: Card = {
 	illustrator: "sadaji",
 	rarity: "Uncommon",
 	category: "Trainer",
+	traits: ["rapid-strike"],
 
 	effect: {
 		en: "Put a Special Energy attached to 1 of your opponent's Pokémon on the bottom of their deck.",

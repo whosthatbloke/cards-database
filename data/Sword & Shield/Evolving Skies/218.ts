@@ -16,6 +16,7 @@ const card: Card = {
 
 	rarity: "Secret Rare",
 	category: "Pokemon",
+	traits: ["rapid-strike"],
 	hp: 320,
 	types: ["Dragon"],
 	stage: "VMAX",
