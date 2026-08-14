@@ -265,9 +265,11 @@ export interface Card extends CardResume {
 	 * Printed card classifications, asserted only from the printed card or an
 	 * authoritative card listing. `ancient` is distinct from an ability whose
 	 * type is `Ancient Trait`; traits are not inferred from a card's stage,
-	 * suffix, rule class, name, artwork, or rules text.
+	 * suffix, rule class, name, artwork, or rules text. The field is optional
+	 * for compatibility with existing consumers; an absent field means that no
+	 * printed traits apply.
 	 */
-	traits: Array<CardTrait>;
+	traits?: Array<CardTrait>;
 	/**
 	 * Card Suffix
 	 *

@@ -208,8 +208,8 @@ type Card {
 	stage: String
 
 
-	"""Printed card classifications. `ancient` is distinct from an ability whose type is `Ancient Trait`; traits are not inferred from stage, suffix, rule class, name, artwork, or rules text."""
-	traits: [String!]!
+	"""Optional printed card classifications. An absent value means no printed traits apply. `ancient` is distinct from an ability whose type is `Ancient Trait`; traits are not inferred from stage, suffix, rule class, name, artwork, or rules text."""
+	traits: [String!]
 
 	"""the card suffix"""
 	suffix: String

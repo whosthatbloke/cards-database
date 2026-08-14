@@ -1451,7 +1451,6 @@ components:
         - name
         - rarity
         - set
-        - traits
         - legal
         - updated
       type: object
@@ -1557,7 +1556,7 @@ components:
           example: "Stage 2"
         traits:
           type: array
-          description: Printed card classifications. `ancient` is distinct from an ability whose type is `Ancient Trait`; traits are not inferred from a card's stage, suffix, rule class, name, artwork, or rules text.
+          description: Optional printed card classifications. An absent field means no printed traits apply. `ancient` is distinct from an ability whose type is `Ancient Trait`; traits are not inferred from a card's stage, suffix, rule class, name, artwork, or rules text.
           items:
             type: string
             enum:
