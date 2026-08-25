@@ -1,0 +1,12 @@
+ARG TCGDEX_BASE=tcgdex/server@sha256:1f998afdd84aa1c11c288eca25fd4e4fc88b998c4ec950806df319df4945110e
+FROM ${TCGDEX_BASE}
+
+LABEL io.activespot.tcgdex.upstream-revision="d9083b73db080979123ebf5e9e97338d4e0745b2"
+LABEL io.activespot.card-traits.sha256="e5234e7f1f732339e4f86a0675c23bd9bb2c7ad994cf286251ecb5733bacacda"
+
+COPY --chown=bun:bun meta/card-traits.json /tmp/card-traits.json
+COPY --chown=bun:bun meta/apply-card-traits.ts /tmp/apply-card-traits.ts
+COPY --chown=bun:bun meta/definitions/graphql.gql /usr/src/app/public/v2/graphql.gql
+COPY --chown=bun:bun meta/definitions/openapi.yaml /usr/src/app/public/v2/openapi.yaml
+
+RUN bun /tmp/apply-card-traits.ts && rm /tmp/apply-card-traits.ts /tmp/card-traits.json

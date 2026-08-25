@@ -159,6 +159,8 @@ export interface CardResume {
 	image?: string;
 }
 
+export type CardTrait = 'ancient' | 'future' | 'tera' | 'single-strike' | 'rapid-strike' | 'fusion-strike';
+
 /**
  * /cards/:id
  * /sets/:set/:localId
@@ -259,6 +261,11 @@ export interface Card extends CardResume {
 	 * - VMAX https://www.tcgdex.net/database/swsh/swsh1/50
 	 */
 	stage?: string;
+	/**
+	 * Printed card classifications asserted by exact print ID. `ancient` is
+	 * distinct from an ability whose type is `Ancient Trait`.
+	 */
+	traits: Array<CardTrait>;
 	/**
 	 * Card Suffix
 	 *

@@ -1,12 +1,15 @@
 /* eslint-disable sort-keys */
 import pathLib from 'node:path'
 import { Card, Set, SupportedLanguages, Types, variant_detailed, VariantStamps, VariantType } from '../../../interfaces'
-import { CardResume, Card as CardSingle, variant_detailed as ApiVariantDetailed } from '../../../meta/definitions/api'
+import { CardResume, Card as CardSingle, CardTrait, variant_detailed as ApiVariantDetailed } from '../../../meta/definitions/api'
 import { getSet, setToSetSimple } from './setUtil'
 import translate from './translationUtil'
 import { DB_PATH, cardIsLegal, fetchRemoteFile, getDataFolder, getLastEdit, resolveText, smartGlob } from './util'
 import { objectMap, objectPick } from '@dzeio/object-util'
 import { formatVariant, variantToIdentifier } from "./variantUtil.ts";
+import cardTraits from '../../../meta/card-traits.json'
+
+const traitsByCard = cardTraits.cards as Readonly<Record<string, ReadonlyArray<CardTrait>>>
 
 export async function getCardPictures(cardId: string, card: Card, lang: SupportedLanguages): Promise<string | undefined> {
 	try {
@@ -76,6 +79,7 @@ function variantsToVariantsDetailed(variants: CardSingle['variants'],lang: Suppo
 // eslint-disable-next-line max-lines-per-function
 export async function cardToCardSingle(localId: string, card: Card, lang: SupportedLanguages): Promise<CardSingle> {
 	const image = await getCardPictures(localId, card, lang)
+	const id = `${card.set.id}-${localId}`
 
 	if (!card.name[lang]) {
 		throw new Error(`Card (${localId}) dont exist in (${lang})`)
@@ -83,7 +87,7 @@ export async function cardToCardSingle(localId: string, card: Card, lang: Suppor
 
 	return {
 		category: translate('category', card.category, lang) as any,
-		id: `${card.set.id}-${localId}`,
+		id,
 		illustrator: card.illustrator,
 		image,
 		localId,
@@ -121,6 +125,7 @@ export async function cardToCardSingle(localId: string, card: Card, lang: Suppor
 		description: card.description ? resolveText(card.description, lang) as string : undefined,
 		level: card.level,
 		stage: translate('stage', card.stage, lang) as any,
+		traits: [...(traitsByCard[id] ?? [])],
 		suffix: translate('suffix', card.suffix, lang) as any,
 		item: card.item ? {
 			name: resolveText(card.item.name, lang),

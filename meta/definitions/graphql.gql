@@ -207,6 +207,9 @@ type Card {
 	"""the Card evolution stage"""
 	stage: String
 
+	"""Printed card classifications asserted by exact print ID. `ancient` is distinct from an ability whose type is `Ancient Trait`."""
+	traits: [String!]!
+
 	"""the card suffix"""
 	suffix: String
 

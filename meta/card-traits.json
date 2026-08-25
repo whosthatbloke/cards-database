@@ -1,0 +1,1937 @@
+{
+  "schemaVersion": 1,
+  "reviewedUpstreamCommit": "d9083b73db080979123ebf5e9e97338d4e0745b2",
+  "reviewedStandardSeedHash": "1ecf8fc923c4ea38cba7f00212ad71da92d07da259f08e261f9ea67b08101d4d",
+  "sourceTraitCommit": "6e6158760b23ea8b5160f5b17382d40779e25fe8",
+  "cards": {
+    "me02.5-038": [
+      "tera"
+    ],
+    "me02.5-057": [
+      "tera"
+    ],
+    "me02.5-073": [
+      "tera"
+    ],
+    "me02.5-121": [
+      "tera"
+    ],
+    "me02.5-160": [
+      "tera"
+    ],
+    "me02.5-179": [
+      "tera"
+    ],
+    "me02.5-277": [
+      "tera"
+    ],
+    "sv01-032": [
+      "tera"
+    ],
+    "sv01-045": [
+      "tera"
+    ],
+    "sv01-224": [
+      "tera"
+    ],
+    "sv01-225": [
+      "tera"
+    ],
+    "sv02-005": [
+      "tera"
+    ],
+    "sv02-086": [
+      "tera"
+    ],
+    "sv02-093": [
+      "tera"
+    ],
+    "sv02-230": [
+      "tera"
+    ],
+    "sv02-238": [
+      "tera"
+    ],
+    "sv02-239": [
+      "tera"
+    ],
+    "sv03-042": [
+      "tera"
+    ],
+    "sv03-066": [
+      "tera"
+    ],
+    "sv03-096": [
+      "tera"
+    ],
+    "sv03-125": [
+      "tera"
+    ],
+    "sv03-159": [
+      "tera"
+    ],
+    "sv03-179": [
+      "tera"
+    ],
+    "sv03-210": [
+      "tera"
+    ],
+    "sv03-211": [
+      "tera"
+    ],
+    "sv03-212": [
+      "tera"
+    ],
+    "sv03-215": [
+      "tera"
+    ],
+    "sv03-222": [
+      "tera"
+    ],
+    "sv03-223": [
+      "tera"
+    ],
+    "sv03-228": [
+      "tera"
+    ],
+    "sv04-003": [
+      "tera"
+    ],
+    "sv04-028": [
+      "future"
+    ],
+    "sv04-038": [
+      "tera"
+    ],
+    "sv04-046": [
+      "tera"
+    ],
+    "sv04-056": [
+      "future"
+    ],
+    "sv04-058": [
+      "tera"
+    ],
+    "sv04-070": [
+      "future"
+    ],
+    "sv04-086": [
+      "ancient"
+    ],
+    "sv04-089": [
+      "future"
+    ],
+    "sv04-098": [
+      "tera"
+    ],
+    "sv04-100": [
+      "tera"
+    ],
+    "sv04-107": [
+      "ancient"
+    ],
+    "sv04-108": [
+      "ancient"
+    ],
+    "sv04-123": [
+      "ancient"
+    ],
+    "sv04-124": [
+      "ancient"
+    ],
+    "sv04-137": [
+      "tera"
+    ],
+    "sv04-158": [
+      "future"
+    ],
+    "sv04-159": [
+      "ancient"
+    ],
+    "sv04-163": [
+      "ancient"
+    ],
+    "sv04-164": [
+      "future"
+    ],
+    "sv04-170": [
+      "ancient"
+    ],
+    "sv04-171": [
+      "future"
+    ],
+    "sv04-180": [
+      "future"
+    ],
+    "sv04-187": [
+      "future"
+    ],
+    "sv04-203": [
+      "ancient"
+    ],
+    "sv04-207": [
+      "ancient"
+    ],
+    "sv04-216": [
+      "future"
+    ],
+    "sv04-217": [
+      "tera"
+    ],
+    "sv04-219": [
+      "tera"
+    ],
+    "sv04-220": [
+      "tera"
+    ],
+    "sv04-223": [
+      "future"
+    ],
+    "sv04-225": [
+      "future"
+    ],
+    "sv04-226": [
+      "tera"
+    ],
+    "sv04-227": [
+      "tera"
+    ],
+    "sv04-228": [
+      "ancient"
+    ],
+    "sv04-229": [
+      "ancient"
+    ],
+    "sv04-239": [
+      "ancient"
+    ],
+    "sv04-240": [
+      "future"
+    ],
+    "sv04-245": [
+      "tera"
+    ],
+    "sv04-248": [
+      "future"
+    ],
+    "sv04-249": [
+      "future"
+    ],
+    "sv04-250": [
+      "ancient"
+    ],
+    "sv04-251": [
+      "ancient"
+    ],
+    "sv04-256": [
+      "ancient"
+    ],
+    "sv04-257": [
+      "future"
+    ],
+    "sv04-260": [
+      "tera"
+    ],
+    "sv04-261": [
+      "future"
+    ],
+    "sv04-262": [
+      "ancient"
+    ],
+    "sv04.5-002": [
+      "tera"
+    ],
+    "sv04.5-006": [
+      "tera"
+    ],
+    "sv04.5-053": [
+      "ancient"
+    ],
+    "sv04.5-054": [
+      "tera"
+    ],
+    "sv04.5-066": [
+      "future"
+    ],
+    "sv04.5-212": [
+      "tera"
+    ],
+    "sv04.5-214": [
+      "tera"
+    ],
+    "sv04.5-234": [
+      "tera"
+    ],
+    "sv05-025": [
+      "future"
+    ],
+    "sv05-038": [
+      "ancient"
+    ],
+    "sv05-050": [
+      "ancient"
+    ],
+    "sv05-060": [
+      "tera"
+    ],
+    "sv05-061": [
+      "future"
+    ],
+    "sv05-062": [
+      "future"
+    ],
+    "sv05-077": [
+      "ancient"
+    ],
+    "sv05-078": [
+      "ancient"
+    ],
+    "sv05-079": [
+      "future"
+    ],
+    "sv05-080": [
+      "future"
+    ],
+    "sv05-081": [
+      "future"
+    ],
+    "sv05-096": [
+      "ancient"
+    ],
+    "sv05-097": [
+      "ancient"
+    ],
+    "sv05-098": [
+      "ancient"
+    ],
+    "sv05-099": [
+      "future"
+    ],
+    "sv05-108": [
+      "tera"
+    ],
+    "sv05-109": [
+      "ancient"
+    ],
+    "sv05-118": [
+      "future"
+    ],
+    "sv05-119": [
+      "ancient"
+    ],
+    "sv05-120": [
+      "ancient"
+    ],
+    "sv05-121": [
+      "future"
+    ],
+    "sv05-122": [
+      "future"
+    ],
+    "sv05-123": [
+      "ancient"
+    ],
+    "sv05-139": [
+      "future"
+    ],
+    "sv05-140": [
+      "ancient"
+    ],
+    "sv05-141": [
+      "ancient"
+    ],
+    "sv05-145": [
+      "future"
+    ],
+    "sv05-147": [
+      "ancient"
+    ],
+    "sv05-149": [
+      "future"
+    ],
+    "sv05-158": [
+      "future"
+    ],
+    "sv05-186": [
+      "future"
+    ],
+    "sv05-188": [
+      "ancient"
+    ],
+    "sv05-189": [
+      "ancient"
+    ],
+    "sv05-190": [
+      "tera"
+    ],
+    "sv05-191": [
+      "future"
+    ],
+    "sv05-192": [
+      "future"
+    ],
+    "sv05-194": [
+      "tera"
+    ],
+    "sv05-196": [
+      "ancient"
+    ],
+    "sv05-198": [
+      "future"
+    ],
+    "sv05-200": [
+      "ancient"
+    ],
+    "sv05-203": [
+      "future"
+    ],
+    "sv05-204": [
+      "ancient"
+    ],
+    "sv05-205": [
+      "ancient"
+    ],
+    "sv05-206": [
+      "future"
+    ],
+    "sv05-207": [
+      "future"
+    ],
+    "sv05-208": [
+      "ancient"
+    ],
+    "sv05-213": [
+      "future"
+    ],
+    "sv05-214": [
+      "ancient"
+    ],
+    "sv05-215": [
+      "ancient"
+    ],
+    "sv05-216": [
+      "future"
+    ],
+    "sv05-217": [
+      "future"
+    ],
+    "sv05-218": [
+      "ancient"
+    ],
+    "sv06-019": [
+      "future"
+    ],
+    "sv06-025": [
+      "tera"
+    ],
+    "sv06-029": [
+      "tera"
+    ],
+    "sv06-040": [
+      "tera"
+    ],
+    "sv06-062": [
+      "future"
+    ],
+    "sv06-063": [
+      "ancient"
+    ],
+    "sv06-064": [
+      "tera"
+    ],
+    "sv06-077": [
+      "future"
+    ],
+    "sv06-094": [
+      "ancient"
+    ],
+    "sv06-106": [
+      "tera"
+    ],
+    "sv06-112": [
+      "tera"
+    ],
+    "sv06-118": [
+      "ancient"
+    ],
+    "sv06-130": [
+      "tera"
+    ],
+    "sv06-190": [
+      "tera"
+    ],
+    "sv06-191": [
+      "tera"
+    ],
+    "sv06-192": [
+      "tera"
+    ],
+    "sv06-194": [
+      "tera"
+    ],
+    "sv06-196": [
+      "future"
+    ],
+    "sv06-197": [
+      "ancient"
+    ],
+    "sv06-198": [
+      "tera"
+    ],
+    "sv06-199": [
+      "tera"
+    ],
+    "sv06-200": [
+      "tera"
+    ],
+    "sv06-211": [
+      "tera"
+    ],
+    "sv06-212": [
+      "tera"
+    ],
+    "sv06-213": [
+      "tera"
+    ],
+    "sv06-214": [
+      "tera"
+    ],
+    "sv06-215": [
+      "tera"
+    ],
+    "sv06-221": [
+      "tera"
+    ],
+    "sv06.5-009": [
+      "future"
+    ],
+    "sv06.5-015": [
+      "tera"
+    ],
+    "sv06.5-026": [
+      "ancient"
+    ],
+    "sv06.5-081": [
+      "tera"
+    ],
+    "sv06.5-096": [
+      "ancient"
+    ],
+    "sv07-028": [
+      "tera"
+    ],
+    "sv07-032": [
+      "tera"
+    ],
+    "sv07-051": [
+      "tera"
+    ],
+    "sv07-071": [
+      "future"
+    ],
+    "sv07-111": [
+      "ancient"
+    ],
+    "sv07-128": [
+      "tera"
+    ],
+    "sv07-157": [
+      "tera"
+    ],
+    "sv07-158": [
+      "tera"
+    ],
+    "sv07-159": [
+      "tera"
+    ],
+    "sv07-168": [
+      "tera"
+    ],
+    "sv07-170": [
+      "tera"
+    ],
+    "sv07-173": [
+      "tera"
+    ],
+    "sv08-036": [
+      "tera"
+    ],
+    "sv08-038": [
+      "ancient"
+    ],
+    "sv08-055": [
+      "future"
+    ],
+    "sv08-057": [
+      "tera"
+    ],
+    "sv08-069": [
+      "future"
+    ],
+    "sv08-086": [
+      "tera"
+    ],
+    "sv08-091": [
+      "tera"
+    ],
+    "sv08-096": [
+      "ancient"
+    ],
+    "sv08-106": [
+      "tera"
+    ],
+    "sv08-116": [
+      "ancient"
+    ],
+    "sv08-119": [
+      "tera"
+    ],
+    "sv08-132": [
+      "future"
+    ],
+    "sv08-133": [
+      "tera"
+    ],
+    "sv08-142": [
+      "tera"
+    ],
+    "sv08-159": [
+      "tera"
+    ],
+    "sv08-219": [
+      "tera"
+    ],
+    "sv08-221": [
+      "tera"
+    ],
+    "sv08-222": [
+      "tera"
+    ],
+    "sv08-223": [
+      "tera"
+    ],
+    "sv08-225": [
+      "tera"
+    ],
+    "sv08-226": [
+      "tera"
+    ],
+    "sv08-228": [
+      "tera"
+    ],
+    "sv08-238": [
+      "tera"
+    ],
+    "sv08-240": [
+      "tera"
+    ],
+    "sv08-242": [
+      "tera"
+    ],
+    "sv08-247": [
+      "tera"
+    ],
+    "sv08-248": [
+      "tera"
+    ],
+    "sv08.5-006": [
+      "tera"
+    ],
+    "sv08.5-012": [
+      "tera"
+    ],
+    "sv08.5-014": [
+      "tera"
+    ],
+    "sv08.5-017": [
+      "tera"
+    ],
+    "sv08.5-023": [
+      "tera"
+    ],
+    "sv08.5-026": [
+      "tera"
+    ],
+    "sv08.5-027": [
+      "tera"
+    ],
+    "sv08.5-028": [
+      "tera"
+    ],
+    "sv08.5-030": [
+      "tera"
+    ],
+    "sv08.5-031": [
+      "future"
+    ],
+    "sv08.5-032": [
+      "future"
+    ],
+    "sv08.5-034": [
+      "tera"
+    ],
+    "sv08.5-041": [
+      "tera"
+    ],
+    "sv08.5-042": [
+      "ancient"
+    ],
+    "sv08.5-043": [
+      "ancient"
+    ],
+    "sv08.5-046": [
+      "future"
+    ],
+    "sv08.5-055": [
+      "ancient"
+    ],
+    "sv08.5-056": [
+      "ancient"
+    ],
+    "sv08.5-058": [
+      "tera"
+    ],
+    "sv08.5-060": [
+      "tera"
+    ],
+    "sv08.5-065": [
+      "ancient"
+    ],
+    "sv08.5-073": [
+      "tera"
+    ],
+    "sv08.5-075": [
+      "tera"
+    ],
+    "sv08.5-104": [
+      "future"
+    ],
+    "sv08.5-106": [
+      "ancient"
+    ],
+    "sv08.5-107": [
+      "ancient"
+    ],
+    "sv08.5-120": [
+      "ancient"
+    ],
+    "sv08.5-121": [
+      "future"
+    ],
+    "sv08.5-130": [
+      "future"
+    ],
+    "sv08.5-144": [
+      "tera"
+    ],
+    "sv08.5-145": [
+      "tera"
+    ],
+    "sv08.5-146": [
+      "tera"
+    ],
+    "sv08.5-147": [
+      "tera"
+    ],
+    "sv08.5-148": [
+      "tera"
+    ],
+    "sv08.5-149": [
+      "tera"
+    ],
+    "sv08.5-150": [
+      "tera"
+    ],
+    "sv08.5-152": [
+      "tera"
+    ],
+    "sv08.5-153": [
+      "tera"
+    ],
+    "sv08.5-154": [
+      "future"
+    ],
+    "sv08.5-155": [
+      "tera"
+    ],
+    "sv08.5-156": [
+      "tera"
+    ],
+    "sv08.5-157": [
+      "future"
+    ],
+    "sv08.5-158": [
+      "future"
+    ],
+    "sv08.5-159": [
+      "ancient"
+    ],
+    "sv08.5-160": [
+      "tera"
+    ],
+    "sv08.5-161": [
+      "tera"
+    ],
+    "sv08.5-162": [
+      "ancient"
+    ],
+    "sv08.5-165": [
+      "tera"
+    ],
+    "sv08.5-166": [
+      "ancient"
+    ],
+    "sv08.5-167": [
+      "tera"
+    ],
+    "sv08.5-169": [
+      "tera"
+    ],
+    "sv08.5-176": [
+      "future"
+    ],
+    "sv08.5-177": [
+      "tera"
+    ],
+    "sv08.5-178": [
+      "ancient"
+    ],
+    "sv08.5-179": [
+      "tera"
+    ],
+    "sv08.5-180": [
+      "tera"
+    ],
+    "svp-056": [
+      "tera"
+    ],
+    "svp-058": [
+      "future"
+    ],
+    "svp-065": [
+      "ancient"
+    ],
+    "svp-066": [
+      "future"
+    ],
+    "svp-067": [
+      "ancient"
+    ],
+    "svp-068": [
+      "future"
+    ],
+    "svp-072": [
+      "ancient"
+    ],
+    "svp-073": [
+      "future"
+    ],
+    "svp-074": [
+      "tera"
+    ],
+    "svp-091": [
+      "ancient"
+    ],
+    "svp-092": [
+      "future"
+    ],
+    "svp-097": [
+      "ancient"
+    ],
+    "svp-098": [
+      "future"
+    ],
+    "svp-127": [
+      "ancient"
+    ],
+    "svp-128": [
+      "future"
+    ],
+    "svp-144": [
+      "ancient"
+    ],
+    "svp-145": [
+      "ancient"
+    ],
+    "svp-146": [
+      "future"
+    ],
+    "svp-147": [
+      "future"
+    ],
+    "svp-151": [
+      "ancient"
+    ],
+    "svp-163": [
+      "tera"
+    ],
+    "svp-164": [
+      "tera"
+    ],
+    "svp-165": [
+      "tera"
+    ],
+    "swsh10-049": [
+      "fusion-strike"
+    ],
+    "swsh10tg-TG01": [
+      "single-strike"
+    ],
+    "swsh10tg-TG07": [
+      "rapid-strike"
+    ],
+    "swsh11tg-TG07": [
+      "single-strike"
+    ],
+    "swsh11tg-TG30": [
+      "fusion-strike"
+    ],
+    "swsh12.5-039": [
+      "rapid-strike"
+    ],
+    "swsh12.5-041": [
+      "rapid-strike"
+    ],
+    "swsh12.5-043": [
+      "rapid-strike"
+    ],
+    "swsh12.5-060": [
+      "fusion-strike"
+    ],
+    "swsh12.5-100": [
+      "rapid-strike"
+    ],
+    "swsh12.5-101": [
+      "rapid-strike"
+    ],
+    "swsh12.5-102": [
+      "rapid-strike"
+    ],
+    "swsh12.5-103": [
+      "single-strike"
+    ],
+    "swsh12.5-104": [
+      "single-strike"
+    ],
+    "swsh12.5-147": [
+      "fusion-strike"
+    ],
+    "swsh12.5gg-GG04": [
+      "fusion-strike"
+    ],
+    "swsh12.5gg-GG09": [
+      "fusion-strike"
+    ],
+    "swsh12.5gg-GG12": [
+      "single-strike",
+      "rapid-strike",
+      "fusion-strike"
+    ],
+    "swsh12.5gg-GG20": [
+      "fusion-strike"
+    ],
+    "swsh12.5gg-GG53": [
+      "fusion-strike"
+    ],
+    "swsh12tg-TG06": [
+      "rapid-strike"
+    ],
+    "swsh12tg-TG07": [
+      "single-strike"
+    ],
+    "swsh12tg-TG08": [
+      "rapid-strike"
+    ],
+    "swsh12tg-TG14": [
+      "rapid-strike"
+    ],
+    "swsh12tg-TG15": [
+      "rapid-strike"
+    ],
+    "swsh12tg-TG16": [
+      "rapid-strike"
+    ],
+    "swsh12tg-TG20": [
+      "rapid-strike"
+    ],
+    "swsh12tg-TG21": [
+      "single-strike"
+    ],
+    "swsh12tg-TG29": [
+      "rapid-strike"
+    ],
+    "swsh12tg-TG30": [
+      "single-strike"
+    ],
+    "swsh5-100": [
+      "single-strike"
+    ],
+    "swsh5-121": [
+      "single-strike"
+    ],
+    "swsh5-127": [
+      "rapid-strike"
+    ],
+    "swsh5-128": [
+      "rapid-strike"
+    ],
+    "swsh5-131": [
+      "rapid-strike"
+    ],
+    "swsh5-132": [
+      "rapid-strike"
+    ],
+    "swsh5-133": [
+      "single-strike"
+    ],
+    "swsh5-134": [
+      "single-strike"
+    ],
+    "swsh5-137": [
+      "single-strike"
+    ],
+    "swsh5-138": [
+      "rapid-strike"
+    ],
+    "swsh5-139": [
+      "single-strike"
+    ],
+    "swsh5-140": [
+      "rapid-strike"
+    ],
+    "swsh5-141": [
+      "single-strike"
+    ],
+    "swsh5-145": [
+      "rapid-strike"
+    ],
+    "swsh5-146": [
+      "rapid-strike"
+    ],
+    "swsh5-150": [
+      "single-strike"
+    ],
+    "swsh5-151": [
+      "single-strike"
+    ],
+    "swsh5-152": [
+      "rapid-strike"
+    ],
+    "swsh5-153": [
+      "rapid-strike"
+    ],
+    "swsh5-154": [
+      "single-strike"
+    ],
+    "swsh5-155": [
+      "single-strike"
+    ],
+    "swsh5-158": [
+      "single-strike"
+    ],
+    "swsh5-160": [
+      "single-strike"
+    ],
+    "swsh5-162": [
+      "rapid-strike"
+    ],
+    "swsh5-163": [
+      "single-strike"
+    ],
+    "swsh5-167": [
+      "single-strike"
+    ],
+    "swsh5-168": [
+      "single-strike"
+    ],
+    "swsh5-169": [
+      "rapid-strike"
+    ],
+    "swsh5-170": [
+      "rapid-strike"
+    ],
+    "swsh5-172": [
+      "single-strike"
+    ],
+    "swsh5-174": [
+      "rapid-strike"
+    ],
+    "swsh5-176": [
+      "rapid-strike"
+    ],
+    "swsh5-177": [
+      "single-strike"
+    ],
+    "swsh5-178": [
+      "rapid-strike"
+    ],
+    "swsh5-179": [
+      "single-strike"
+    ],
+    "swsh5-182": [
+      "rapid-strike"
+    ],
+    "swsh5-183": [
+      "single-strike"
+    ],
+    "swsh5-23": [
+      "single-strike"
+    ],
+    "swsh5-24": [
+      "single-strike"
+    ],
+    "swsh5-25": [
+      "single-strike"
+    ],
+    "swsh5-36": [
+      "rapid-strike"
+    ],
+    "swsh5-37": [
+      "rapid-strike"
+    ],
+    "swsh5-40": [
+      "rapid-strike"
+    ],
+    "swsh5-46": [
+      "rapid-strike"
+    ],
+    "swsh5-47": [
+      "rapid-strike"
+    ],
+    "swsh5-48": [
+      "rapid-strike"
+    ],
+    "swsh5-66": [
+      "single-strike"
+    ],
+    "swsh5-67": [
+      "single-strike"
+    ],
+    "swsh5-76": [
+      "rapid-strike"
+    ],
+    "swsh5-77": [
+      "rapid-strike"
+    ],
+    "swsh5-83": [
+      "rapid-strike"
+    ],
+    "swsh5-84": [
+      "single-strike"
+    ],
+    "swsh5-85": [
+      "single-strike"
+    ],
+    "swsh5-86": [
+      "single-strike"
+    ],
+    "swsh5-87": [
+      "rapid-strike"
+    ],
+    "swsh5-88": [
+      "rapid-strike"
+    ],
+    "swsh5-9": [
+      "rapid-strike"
+    ],
+    "swsh5-95": [
+      "single-strike"
+    ],
+    "swsh5-96": [
+      "single-strike"
+    ],
+    "swsh5-97": [
+      "single-strike"
+    ],
+    "swsh6-1": [
+      "single-strike"
+    ],
+    "swsh6-10": [
+      "single-strike"
+    ],
+    "swsh6-100": [
+      "single-strike"
+    ],
+    "swsh6-101": [
+      "single-strike"
+    ],
+    "swsh6-102": [
+      "single-strike"
+    ],
+    "swsh6-108": [
+      "single-strike"
+    ],
+    "swsh6-112": [
+      "rapid-strike"
+    ],
+    "swsh6-113": [
+      "rapid-strike"
+    ],
+    "swsh6-115": [
+      "single-strike"
+    ],
+    "swsh6-120": [
+      "rapid-strike"
+    ],
+    "swsh6-122": [
+      "rapid-strike"
+    ],
+    "swsh6-124": [
+      "single-strike"
+    ],
+    "swsh6-125": [
+      "single-strike"
+    ],
+    "swsh6-131": [
+      "rapid-strike"
+    ],
+    "swsh6-136": [
+      "rapid-strike"
+    ],
+    "swsh6-139": [
+      "single-strike"
+    ],
+    "swsh6-144": [
+      "single-strike"
+    ],
+    "swsh6-151": [
+      "rapid-strike"
+    ],
+    "swsh6-153": [
+      "rapid-strike"
+    ],
+    "swsh6-154": [
+      "single-strike"
+    ],
+    "swsh6-156": [
+      "single-strike"
+    ],
+    "swsh6-157": [
+      "single-strike"
+    ],
+    "swsh6-159": [
+      "rapid-strike"
+    ],
+    "swsh6-16": [
+      "rapid-strike"
+    ],
+    "swsh6-161": [
+      "rapid-strike"
+    ],
+    "swsh6-162": [
+      "single-strike"
+    ],
+    "swsh6-165": [
+      "rapid-strike"
+    ],
+    "swsh6-166": [
+      "rapid-strike"
+    ],
+    "swsh6-17": [
+      "rapid-strike"
+    ],
+    "swsh6-178": [
+      "single-strike"
+    ],
+    "swsh6-179": [
+      "single-strike"
+    ],
+    "swsh6-18": [
+      "rapid-strike"
+    ],
+    "swsh6-181": [
+      "rapid-strike"
+    ],
+    "swsh6-184": [
+      "single-strike"
+    ],
+    "swsh6-185": [
+      "single-strike"
+    ],
+    "swsh6-188": [
+      "rapid-strike"
+    ],
+    "swsh6-191": [
+      "single-strike"
+    ],
+    "swsh6-193": [
+      "single-strike"
+    ],
+    "swsh6-198": [
+      "rapid-strike"
+    ],
+    "swsh6-2": [
+      "single-strike"
+    ],
+    "swsh6-20": [
+      "rapid-strike"
+    ],
+    "swsh6-200": [
+      "rapid-strike"
+    ],
+    "swsh6-201": [
+      "rapid-strike"
+    ],
+    "swsh6-207": [
+      "single-strike"
+    ],
+    "swsh6-208": [
+      "rapid-strike"
+    ],
+    "swsh6-209": [
+      "single-strike"
+    ],
+    "swsh6-21": [
+      "rapid-strike"
+    ],
+    "swsh6-212": [
+      "rapid-strike"
+    ],
+    "swsh6-215": [
+      "single-strike"
+    ],
+    "swsh6-216": [
+      "single-strike"
+    ],
+    "swsh6-221": [
+      "rapid-strike"
+    ],
+    "swsh6-225": [
+      "rapid-strike"
+    ],
+    "swsh6-226": [
+      "rapid-strike"
+    ],
+    "swsh6-229": [
+      "single-strike"
+    ],
+    "swsh6-230": [
+      "single-strike"
+    ],
+    "swsh6-25": [
+      "single-strike"
+    ],
+    "swsh6-26": [
+      "single-strike"
+    ],
+    "swsh6-27": [
+      "single-strike"
+    ],
+    "swsh6-28": [
+      "single-strike"
+    ],
+    "swsh6-3": [
+      "single-strike"
+    ],
+    "swsh6-30": [
+      "rapid-strike"
+    ],
+    "swsh6-31": [
+      "rapid-strike"
+    ],
+    "swsh6-40": [
+      "rapid-strike"
+    ],
+    "swsh6-41": [
+      "rapid-strike"
+    ],
+    "swsh6-42": [
+      "rapid-strike"
+    ],
+    "swsh6-43": [
+      "rapid-strike"
+    ],
+    "swsh6-44": [
+      "rapid-strike"
+    ],
+    "swsh6-50": [
+      "rapid-strike"
+    ],
+    "swsh6-51": [
+      "rapid-strike"
+    ],
+    "swsh6-53": [
+      "rapid-strike"
+    ],
+    "swsh6-6": [
+      "single-strike"
+    ],
+    "swsh6-62": [
+      "single-strike"
+    ],
+    "swsh6-63": [
+      "single-strike"
+    ],
+    "swsh6-69": [
+      "rapid-strike"
+    ],
+    "swsh6-70": [
+      "rapid-strike"
+    ],
+    "swsh6-76": [
+      "rapid-strike"
+    ],
+    "swsh6-77": [
+      "rapid-strike"
+    ],
+    "swsh6-78": [
+      "single-strike"
+    ],
+    "swsh6-79": [
+      "single-strike"
+    ],
+    "swsh6-86": [
+      "single-strike"
+    ],
+    "swsh6-87": [
+      "single-strike"
+    ],
+    "swsh6-88": [
+      "rapid-strike"
+    ],
+    "swsh6-9": [
+      "single-strike"
+    ],
+    "swsh6-99": [
+      "single-strike"
+    ],
+    "swsh7-1": [
+      "single-strike"
+    ],
+    "swsh7-110": [
+      "rapid-strike"
+    ],
+    "swsh7-111": [
+      "rapid-strike"
+    ],
+    "swsh7-112": [
+      "single-strike"
+    ],
+    "swsh7-118": [
+      "rapid-strike"
+    ],
+    "swsh7-122": [
+      "single-strike"
+    ],
+    "swsh7-123": [
+      "single-strike"
+    ],
+    "swsh7-129": [
+      "single-strike"
+    ],
+    "swsh7-130": [
+      "single-strike"
+    ],
+    "swsh7-131": [
+      "single-strike"
+    ],
+    "swsh7-153": [
+      "rapid-strike"
+    ],
+    "swsh7-158": [
+      "single-strike"
+    ],
+    "swsh7-169": [
+      "single-strike"
+    ],
+    "swsh7-172": [
+      "rapid-strike"
+    ],
+    "swsh7-18": [
+      "single-strike"
+    ],
+    "swsh7-181": [
+      "single-strike"
+    ],
+    "swsh7-182": [
+      "single-strike"
+    ],
+    "swsh7-183": [
+      "rapid-strike"
+    ],
+    "swsh7-184": [
+      "rapid-strike"
+    ],
+    "swsh7-185": [
+      "rapid-strike"
+    ],
+    "swsh7-186": [
+      "rapid-strike"
+    ],
+    "swsh7-188": [
+      "single-strike"
+    ],
+    "swsh7-189": [
+      "single-strike"
+    ],
+    "swsh7-19": [
+      "single-strike"
+    ],
+    "swsh7-193": [
+      "rapid-strike"
+    ],
+    "swsh7-194": [
+      "rapid-strike"
+    ],
+    "swsh7-197": [
+      "single-strike"
+    ],
+    "swsh7-198": [
+      "single-strike"
+    ],
+    "swsh7-2": [
+      "rapid-strike"
+    ],
+    "swsh7-211": [
+      "rapid-strike"
+    ],
+    "swsh7-212": [
+      "rapid-strike"
+    ],
+    "swsh7-214": [
+      "single-strike"
+    ],
+    "swsh7-215": [
+      "single-strike"
+    ],
+    "swsh7-217": [
+      "rapid-strike"
+    ],
+    "swsh7-218": [
+      "rapid-strike"
+    ],
+    "swsh7-219": [
+      "single-strike"
+    ],
+    "swsh7-220": [
+      "single-strike"
+    ],
+    "swsh7-227": [
+      "rapid-strike"
+    ],
+    "swsh7-3": [
+      "rapid-strike"
+    ],
+    "swsh7-30": [
+      "rapid-strike"
+    ],
+    "swsh7-37": [
+      "rapid-strike"
+    ],
+    "swsh7-38": [
+      "rapid-strike"
+    ],
+    "swsh7-4": [
+      "rapid-strike"
+    ],
+    "swsh7-46": [
+      "rapid-strike"
+    ],
+    "swsh7-66": [
+      "single-strike"
+    ],
+    "swsh7-70": [
+      "single-strike"
+    ],
+    "swsh7-71": [
+      "rapid-strike"
+    ],
+    "swsh7-72": [
+      "rapid-strike"
+    ],
+    "swsh7-73": [
+      "rapid-strike"
+    ],
+    "swsh7-74": [
+      "rapid-strike"
+    ],
+    "swsh7-75": [
+      "rapid-strike"
+    ],
+    "swsh7-80": [
+      "rapid-strike"
+    ],
+    "swsh7-81": [
+      "single-strike"
+    ],
+    "swsh7-83": [
+      "rapid-strike"
+    ],
+    "swsh7-94": [
+      "single-strike"
+    ],
+    "swsh7-95": [
+      "single-strike"
+    ],
+    "swsh8-106": [
+      "fusion-strike"
+    ],
+    "swsh8-108": [
+      "fusion-strike"
+    ],
+    "swsh8-113": [
+      "fusion-strike"
+    ],
+    "swsh8-114": [
+      "fusion-strike"
+    ],
+    "swsh8-120": [
+      "single-strike",
+      "rapid-strike",
+      "fusion-strike"
+    ],
+    "swsh8-124": [
+      "fusion-strike"
+    ],
+    "swsh8-128": [
+      "fusion-strike"
+    ],
+    "swsh8-129": [
+      "fusion-strike"
+    ],
+    "swsh8-13": [
+      "fusion-strike"
+    ],
+    "swsh8-130": [
+      "fusion-strike"
+    ],
+    "swsh8-14": [
+      "fusion-strike"
+    ],
+    "swsh8-142": [
+      "single-strike"
+    ],
+    "swsh8-143": [
+      "single-strike"
+    ],
+    "swsh8-156": [
+      "single-strike"
+    ],
+    "swsh8-157": [
+      "single-strike"
+    ],
+    "swsh8-175": [
+      "single-strike"
+    ],
+    "swsh8-176": [
+      "single-strike"
+    ],
+    "swsh8-177": [
+      "single-strike"
+    ],
+    "swsh8-178": [
+      "single-strike"
+    ],
+    "swsh8-179": [
+      "single-strike"
+    ],
+    "swsh8-182": [
+      "single-strike"
+    ],
+    "swsh8-185": [
+      "fusion-strike"
+    ],
+    "swsh8-188": [
+      "single-strike"
+    ],
+    "swsh8-189": [
+      "single-strike"
+    ],
+    "swsh8-191": [
+      "single-strike"
+    ],
+    "swsh8-192": [
+      "single-strike"
+    ],
+    "swsh8-193": [
+      "fusion-strike"
+    ],
+    "swsh8-194": [
+      "fusion-strike"
+    ],
+    "swsh8-201": [
+      "rapid-strike"
+    ],
+    "swsh8-204": [
+      "rapid-strike"
+    ],
+    "swsh8-209": [
+      "fusion-strike"
+    ],
+    "swsh8-212": [
+      "rapid-strike"
+    ],
+    "swsh8-213": [
+      "rapid-strike"
+    ],
+    "swsh8-216": [
+      "rapid-strike"
+    ],
+    "swsh8-22": [
+      "rapid-strike"
+    ],
+    "swsh8-227": [
+      "fusion-strike"
+    ],
+    "swsh8-23": [
+      "rapid-strike"
+    ],
+    "swsh8-230": [
+      "fusion-strike"
+    ],
+    "swsh8-231": [
+      "fusion-strike"
+    ],
+    "swsh8-233": [
+      "fusion-strike"
+    ],
+    "swsh8-236": [
+      "fusion-strike"
+    ],
+    "swsh8-244": [
+      "fusion-strike"
+    ],
+    "swsh8-250": [
+      "fusion-strike"
+    ],
+    "swsh8-251": [
+      "fusion-strike"
+    ],
+    "swsh8-253": [
+      "fusion-strike"
+    ],
+    "swsh8-254": [
+      "fusion-strike"
+    ],
+    "swsh8-255": [
+      "fusion-strike"
+    ],
+    "swsh8-258": [
+      "fusion-strike"
+    ],
+    "swsh8-260": [
+      "fusion-strike"
+    ],
+    "swsh8-266": [
+      "rapid-strike"
+    ],
+    "swsh8-268": [
+      "fusion-strike"
+    ],
+    "swsh8-269": [
+      "fusion-strike"
+    ],
+    "swsh8-271": [
+      "single-strike"
+    ],
+    "swsh8-273": [
+      "fusion-strike"
+    ],
+    "swsh8-275": [
+      "fusion-strike"
+    ],
+    "swsh8-281": [
+      "fusion-strike"
+    ],
+    "swsh8-42": [
+      "fusion-strike"
+    ],
+    "swsh8-44": [
+      "single-strike"
+    ],
+    "swsh8-45": [
+      "single-strike"
+    ],
+    "swsh8-47": [
+      "rapid-strike"
+    ],
+    "swsh8-48": [
+      "rapid-strike"
+    ],
+    "swsh8-50": [
+      "rapid-strike"
+    ],
+    "swsh8-51": [
+      "rapid-strike"
+    ],
+    "swsh8-52": [
+      "rapid-strike"
+    ],
+    "swsh8-53": [
+      "rapid-strike"
+    ],
+    "swsh8-54": [
+      "rapid-strike"
+    ],
+    "swsh8-6": [
+      "single-strike"
+    ],
+    "swsh8-65": [
+      "fusion-strike"
+    ],
+    "swsh8-66": [
+      "fusion-strike"
+    ],
+    "swsh8-67": [
+      "fusion-strike"
+    ],
+    "swsh8-70": [
+      "rapid-strike"
+    ],
+    "swsh8-78": [
+      "rapid-strike"
+    ],
+    "swsh8-79": [
+      "rapid-strike"
+    ],
+    "swsh8-87": [
+      "single-strike"
+    ],
+    "swsh8-88": [
+      "single-strike"
+    ],
+    "swsh8-89": [
+      "rapid-strike"
+    ],
+    "swsh8-90": [
+      "rapid-strike"
+    ],
+    "swsh9-044": [
+      "fusion-strike"
+    ],
+    "swsh9tg-TG03": [
+      "rapid-strike"
+    ],
+    "swsh9tg-TG10": [
+      "single-strike"
+    ],
+    "swsh9tg-TG14": [
+      "rapid-strike"
+    ],
+    "swsh9tg-TG15": [
+      "rapid-strike"
+    ],
+    "swsh9tg-TG18": [
+      "single-strike"
+    ],
+    "swsh9tg-TG19": [
+      "single-strike"
+    ],
+    "swsh9tg-TG20": [
+      "rapid-strike"
+    ],
+    "swsh9tg-TG21": [
+      "rapid-strike"
+    ],
+    "swsh9tg-TG22": [
+      "single-strike"
+    ],
+    "swsh9tg-TG23": [
+      "single-strike"
+    ],
+    "swsh9tg-TG27": [
+      "rapid-strike"
+    ],
+    "swsh9tg-TG28": [
+      "single-strike"
+    ],
+    "swsh9tg-TG29": [
+      "single-strike"
+    ],
+    "swsh9tg-TG30": [
+      "rapid-strike"
+    ],
+    "swshp-SWSH089": [
+      "rapid-strike"
+    ],
+    "swshp-SWSH090": [
+      "single-strike"
+    ],
+    "swshp-SWSH106": [
+      "single-strike"
+    ],
+    "swshp-SWSH107": [
+      "rapid-strike"
+    ],
+    "swshp-SWSH108": [
+      "rapid-strike"
+    ],
+    "swshp-SWSH109": [
+      "single-strike"
+    ],
+    "swshp-SWSH112": [
+      "single-strike"
+    ],
+    "swshp-SWSH113": [
+      "rapid-strike"
+    ],
+    "swshp-SWSH115": [
+      "rapid-strike"
+    ],
+    "swshp-SWSH119": [
+      "single-strike"
+    ],
+    "swshp-SWSH147": [
+      "rapid-strike"
+    ],
+    "swshp-SWSH149": [
+      "single-strike"
+    ],
+    "swshp-SWSH150": [
+      "rapid-strike"
+    ],
+    "swshp-SWSH168": [
+      "fusion-strike"
+    ],
+    "swshp-SWSH170": [
+      "single-strike",
+      "rapid-strike",
+      "fusion-strike"
+    ],
+    "swshp-SWSH171": [
+      "fusion-strike"
+    ],
+    "swshp-SWSH172": [
+      "single-strike"
+    ],
+    "swshp-SWSH173": [
+      "rapid-strike"
+    ],
+    "swshp-SWSH176": [
+      "fusion-strike"
+    ],
+    "swshp-SWSH179": [
+      "single-strike"
+    ],
+    "swshp-SWSH180": [
+      "single-strike"
+    ],
+    "swshp-SWSH181": [
+      "rapid-strike"
+    ],
+    "swshp-SWSH182": [
+      "rapid-strike"
+    ],
+    "swshp-SWSH202": [
+      "rapid-strike"
+    ],
+    "swshp-SWSH203": [
+      "single-strike"
+    ],
+    "swshp-SWSH209": [
+      "fusion-strike"
+    ],
+    "swshp-SWSH210": [
+      "fusion-strike"
+    ],
+    "swshp-SWSH277": [
+      "rapid-strike"
+    ],
+    "swshp-SWSH278": [
+      "single-strike"
+    ],
+    "swshp-SWSH279": [
+      "rapid-strike"
+    ]
+  }
+}
