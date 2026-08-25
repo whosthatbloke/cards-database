@@ -2,6 +2,10 @@
   "schemaVersion": 1,
   "reviewedUpstreamCommit": "d9083b73db080979123ebf5e9e97338d4e0745b2",
   "reviewedStandardSeedHash": "1ecf8fc923c4ea38cba7f00212ad71da92d07da259f08e261f9ea67b08101d4d",
+  "reviewedSemanticHash": "1b5f55eb3f01df293d510f886db55377f0a2e20954b858dc9c09c1c81929af78",
+  "reviewedPresentationHash": "53ab3341ce4034724cb58df20999efabd79563701782ad0dcdce8f299b50f2ba",
+  "reviewedCandidateSha256": "93720b900fd70deadedf83693fd7c59888675c60cd3dc8a26f8d31bbe1bc0df9",
+  "reviewedAuditSha256": "978eccbdb77d060d1aa0f559d4e62bbfbe138818bfdc3ddbcdc108bc11b41af4",
   "sourceTraitCommit": "6e6158760b23ea8b5160f5b17382d40779e25fe8",
   "cards": {
     "me02.5-038": [

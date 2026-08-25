@@ -1,12 +1,33 @@
 ARG TCGDEX_BASE=tcgdex/server@sha256:1f998afdd84aa1c11c288eca25fd4e4fc88b998c4ec950806df319df4945110e
 FROM ${TCGDEX_BASE}
 
-LABEL io.activespot.tcgdex.upstream-revision="d9083b73db080979123ebf5e9e97338d4e0745b2"
-LABEL io.activespot.card-traits.sha256="e5234e7f1f732339e4f86a0675c23bd9bb2c7ad994cf286251ecb5733bacacda"
+ARG ACTIVESPOT_UPSTREAM_REVISION=d9083b73db080979123ebf5e9e97338d4e0745b2
+ARG ACTIVESPOT_CARD_TRAITS_SHA256=66c0948135d9682854be92e47ffe24160a9702a8014e28ba6fae6fff01c904b1
+ARG ACTIVESPOT_STANDARD_SEED_HASH=1ecf8fc923c4ea38cba7f00212ad71da92d07da259f08e261f9ea67b08101d4d
+ARG ACTIVESPOT_SEMANTIC_HASH=1b5f55eb3f01df293d510f886db55377f0a2e20954b858dc9c09c1c81929af78
+ARG ACTIVESPOT_PRESENTATION_HASH=53ab3341ce4034724cb58df20999efabd79563701782ad0dcdce8f299b50f2ba
+ARG ACTIVESPOT_CANDIDATE_SHA256=93720b900fd70deadedf83693fd7c59888675c60cd3dc8a26f8d31bbe1bc0df9
+ARG ACTIVESPOT_AUDIT_SHA256=978eccbdb77d060d1aa0f559d4e62bbfbe138818bfdc3ddbcdc108bc11b41af4
+
+LABEL io.activespot.tcgdex.upstream-revision="${ACTIVESPOT_UPSTREAM_REVISION}"
+LABEL io.activespot.card-traits.sha256="${ACTIVESPOT_CARD_TRAITS_SHA256}"
+LABEL io.activespot.standard-seed.sha256="${ACTIVESPOT_STANDARD_SEED_HASH}"
+LABEL io.activespot.semantic.sha256="${ACTIVESPOT_SEMANTIC_HASH}"
+LABEL io.activespot.presentation.sha256="${ACTIVESPOT_PRESENTATION_HASH}"
+LABEL io.activespot.candidate.sha256="${ACTIVESPOT_CANDIDATE_SHA256}"
+LABEL io.activespot.audit.sha256="${ACTIVESPOT_AUDIT_SHA256}"
 
 COPY --chown=bun:bun meta/card-traits.json /tmp/card-traits.json
 COPY --chown=bun:bun meta/apply-card-traits.ts /tmp/apply-card-traits.ts
 COPY --chown=bun:bun meta/definitions/graphql.gql /usr/src/app/public/v2/graphql.gql
 COPY --chown=bun:bun meta/definitions/openapi.yaml /usr/src/app/public/v2/openapi.yaml
 
-RUN bun /tmp/apply-card-traits.ts && rm /tmp/apply-card-traits.ts /tmp/card-traits.json
+RUN ACTIVESPOT_UPSTREAM_REVISION="${ACTIVESPOT_UPSTREAM_REVISION}" \
+    ACTIVESPOT_CARD_TRAITS_SHA256="${ACTIVESPOT_CARD_TRAITS_SHA256}" \
+    ACTIVESPOT_STANDARD_SEED_HASH="${ACTIVESPOT_STANDARD_SEED_HASH}" \
+    ACTIVESPOT_SEMANTIC_HASH="${ACTIVESPOT_SEMANTIC_HASH}" \
+    ACTIVESPOT_PRESENTATION_HASH="${ACTIVESPOT_PRESENTATION_HASH}" \
+    ACTIVESPOT_CANDIDATE_SHA256="${ACTIVESPOT_CANDIDATE_SHA256}" \
+    ACTIVESPOT_AUDIT_SHA256="${ACTIVESPOT_AUDIT_SHA256}" \
+    bun /tmp/apply-card-traits.ts && \
+    rm /tmp/apply-card-traits.ts /tmp/card-traits.json
