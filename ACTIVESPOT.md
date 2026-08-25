@@ -8,10 +8,15 @@ upstream revision and Standard seed. Every API card exposes a canonical trait
 array; cards absent from the manifest expose `[]`. Do not infer traits from
 names, artwork, suffixes, stages, or rules text.
 
-Push the stable `activespot-traits` branch to the ActiveSpot fork. Its dedicated
-workflow publishes `ghcr.io/<repository-owner>/tcgdex` and reports the immutable
-image digest in the GitHub Actions summary. ActiveSpot Compose must use that
-digest, never a mutable branch or local tag.
+Build the provider locally from the stable `activespot-traits` branch:
+
+```bash
+docker build -f Dockerfile.activespot -t tcgdex/server:activespot-local-v6 .
+```
+
+ActiveSpot local Compose uses that explicit local tag. Production must use an
+immutable digest from ActiveSpot's private registry; this repository does not
+publish provider images.
 
 `Dockerfile.activespot` extends an immutable official TCGDex digest. Refreshes
 must update that digest, `reviewedUpstreamCommit`, and the reviewed Standard seed
