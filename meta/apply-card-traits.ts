@@ -37,14 +37,15 @@ if (
 	!/^[a-f0-9]{40}$/u.test(authority.sourceTraitCommit)
 ) throw new Error('Trait authority metadata does not match the reviewed provider release')
 
-const allowedTraits = new Set(['ancient', 'future', 'tera', 'single-strike', 'rapid-strike', 'fusion-strike'])
+const canonicalTraits = ['ancient', 'future', 'tera', 'single-strike', 'rapid-strike', 'fusion-strike']
+const allowedTraits = new Set(canonicalTraits)
 for (const [id, traits] of Object.entries(authority.cards)) {
 	if (
 		!Array.isArray(traits) ||
 		traits.length < 1 ||
 		traits.some((trait) => !allowedTraits.has(trait)) ||
 		new Set(traits).size !== traits.length ||
-		traits.some((trait, index) => index > 0 && traits[index - 1]!.localeCompare(trait) >= 0)
+		traits.some((trait, index) => index > 0 && canonicalTraits.indexOf(traits[index - 1]!) >= canonicalTraits.indexOf(trait))
 	) throw new Error(`Trait authority is invalid for ${id}`)
 }
 
